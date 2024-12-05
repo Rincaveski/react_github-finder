@@ -1,4 +1,4 @@
-Primeiro projeto feito com TypeScript. O projeto foi feito na aula do Matheus Battisti [Video][https://www.youtube.com/watch?v=3sQITRihW_A]
+Primeiro projeto feito com TypeScript. O projeto foi feito na aula do Matheus Battisti, [Video](https://www.youtube.com/watch?v=3sQITRihW_A)
 
 Neste projeto foi abortado react, ts, e css modules.
 
@@ -11,6 +11,7 @@ import styles from './styles.module.css';
 
 <div className={styles.container}>
     <h1>Olá mundo</h1>
+</div>
 ```
 
 ```css
